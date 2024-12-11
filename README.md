@@ -36,7 +36,7 @@ Extraido del sitio web de <b>[CONAF](https://www.conaf.cl/centro-documental/)</b
 
 ## Autor
 
-Dariem Castro Tapia
+Dariem Castro Tapia\
 <b>[LinkedIn](https://www.linkedin.com/in/castrotapiadariem/)</b>
 
 ## LICENSE
