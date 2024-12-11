@@ -1,0 +1,3 @@
+To run these scripts, you'll HAVE to modify part of the code. Specifically the variables file_path and writer, optionally. 
+Unless you move the original datasets to the same folder the scripts are located, in that case you could run the scripts as is.
+fires.py cleans the dataset regarding the quantity of fires in Chile, leaving the sheets from 2003 to 2023, while firescause.py does the same but for the dataset regarding the cause of fires.
